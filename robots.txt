@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyasaite.github.io/WpX/sitemap_index.txt
+Sitemap: https://eyasaite.github.io/nCP/sitemap_index.txt
+Sitemap: https://eyasaite.github.io/tcH/sitemap_index.txt
+Sitemap: https://eyasaite.github.io/wtf/sitemap_index.txt
